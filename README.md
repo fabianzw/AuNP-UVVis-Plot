@@ -1,4 +1,3 @@
-#AuNP-UVVis-Plot
 This is a python script that I used to plot UV-Vis spectra of gold nanoparticles (AuNPs) taken by a *Cary 60* UV-Vis spectrometer (Agilent). The script was not intended for publication, therefore the code is rather messy and only sparingly documented. Maybe it comes handy anyway.
 
 It is likely that this will break if you use CSV files by different devices, so you might have to fix the import logic. Feel free to send pull-requests or to message me if you have questions :)
